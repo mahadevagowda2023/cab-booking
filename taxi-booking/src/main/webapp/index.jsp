@@ -15,27 +15,21 @@
 		<!-- Main Stylesheet -->
 		<link href="css/style.css" rel="stylesheet">
 	</head>
+                <body>
 
-	<body>
+<!-- Header start -->
+<header class="header">
+    ...
+</header>
 
-        <!-- Header start -->
-        <header class="header">
-            <div class="top-bar">
-                <div class="container">
-                    <ul class="social-links">
-                        <li><a href="http://facebook.com">Facebook</a></li>
-                        <li><a href="http://twitter.com">Twitter</a></li>
-                        <li><a href="http://linkedin.com">LinkedIn</a></li>
-                        <li><a href="http://instagram.com">Instagram</a></li>
-                    </ul>
-                    <button id="phone-trigger" class="phone-trigger ion-android-call"></button>
-                    <ul class="phones">
-                        <li><a href="tel:8121-416-416"><span>Taxi</span> 8121-416-416</a></li>
-                        <li><a href="tel:8121-416-416"><span>Garage</span> 8121-416-416</a></li>
-                        <li><a href="tel:8121-416-416"><span>Contact</span> 8121-416-416</a></li>
-                    </ul>
-                </div>
-            </div>
+<!-- ✅ Custom message for Jenkins verification -->
+<div style="padding: 20px; font-size: 20px;">
+    <h1>Deployed by Mahadeva Gowda</h1>
+    <p>Contact: 9876543210</p>
+</div>
+
+                
+	
             <div id="nav-bar" class="nav-bar">
                 <div class="container">
                     <a href="index.html" class="logo"><img src="images/logo.svg" alt="Taxi Grabber - HTML Template" /></a>
